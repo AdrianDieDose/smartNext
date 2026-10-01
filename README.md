@@ -1,8 +1,8 @@
-# SmartNext 🎵
+# smartNext 🎵
 
 ![SmartVis Screenshot](vis_screenshot.png)
 
-**SmartNext** is a Spicetify extension that provides a smoother way to skip toward the end of the current Spotify track.
+**smartNext** is a Spicetify extension that provides a smoother way to skip toward the end of the current Spotify track.
 
 Instead of immediately skipping to the next song, SmartNext lets you **jump forward near the end of the current track while smoothly fading the volume**, creating a more natural transition.
 
