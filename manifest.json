@@ -1,0 +1,17 @@
+{
+  "name": "SmartNext",
+  "description": "Smoothly jump toward the end of the current track with configurable fade and skip controls.",
+  "author": "Adrian Duda",
+  "repo": "https://github.com/AdrianDieDose/smartNext",
+  "main": "https://cdn.jsdelivr.net/gh/AdrianDieDose/SmartNext@main/smartNext.js",
+  "tags": [
+    "spicetify",
+    "smart-next",
+    "skip",
+    "fade",
+    "player",
+    "music",
+    "keyboard"
+  ],
+  "version": "1.0.0"
+}
